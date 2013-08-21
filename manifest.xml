@@ -1,0 +1,14 @@
+<package>
+  <description brief="pcl_msgs_fuerte">
+
+     pcl_msgs_fuerte
+
+  </description>
+  <author>Markus Eich</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pcl_msgs_fuerte</url>
+  <depend package="sensor_msgs"/>
+</package>
+
+

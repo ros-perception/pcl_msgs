@@ -2,8 +2,8 @@
 Changelog for package pcl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.4 (2014-04-09)
+------------------
 * install messages into both pcl and pcl_msgs namespace for transition
 * package.xml: tuned whitespaces from bulwahn
 * Contributors: Lukas Bulwahn, Paul Bovbel

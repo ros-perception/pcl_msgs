@@ -2,6 +2,12 @@
 Changelog for package pcl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* install messages into both pcl and pcl_msgs namespace for transition
+* package.xml: tuned whitespaces from bulwahn
+* Contributors: Lukas Bulwahn, Paul Bovbel
+
 0.1.0 (2013-07-09)
 ------------------
 * Generate messages into the pcl_msgs namespace rather than the pcl namespace

@@ -5,6 +5,15 @@ project(pcl_msgs)
 find_package(catkin REQUIRED COMPONENTS message_generation sensor_msgs std_msgs)
 
 # create messages
+project(pcl)
+add_message_files(DIRECTORY msg
+                  FILES ModelCoefficients.msg
+                        PointIndices.msg
+                        PolygonMesh.msg
+                        Vertices.msg
+)
+generate_messages(DEPENDENCIES sensor_msgs std_msgs)
+project(pcl_msgs)
 add_message_files(DIRECTORY msg
                   FILES ModelCoefficients.msg
                         PointIndices.msg

@@ -10,6 +10,7 @@ add_message_files(DIRECTORY msg
                         PointIndices.msg
                         PolygonMesh.msg
                         Vertices.msg
+                        ClusterPointIndices.msg
 )
 add_service_files(DIRECTORY srv
                   FILES UpdateFilename.srv)

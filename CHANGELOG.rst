@@ -2,6 +2,12 @@
 Changelog for package pcl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+ROS2 (2018-12-31)
+------------------
+* Changed package.xml and CMakeList.txt as per ROS->ROS2 migration guide 
+* Changed msg files according to ROS2
+* Replaced message_generation with rosidl_default_generators (rosidl_generate_interfaces)
+
 0.2.0 (2014-04-09)
 ------------------
 * clean up package.xml

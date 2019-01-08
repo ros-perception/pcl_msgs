@@ -1,4 +1,4 @@
-#pcl_msgs
+pcl_msgs
 ========
 ROS package containing PCL-related messages 
 

@@ -1,4 +1,4 @@
-pcl_msgs
+#pcl_msgs
 ========
 ROS package containing PCL-related messages 
 
@@ -23,4 +23,4 @@ ROS package containing PCL-related messages
 
         2.1 colcon test
         2.2 colcon test-result  # it shows result of all tests as (Summary: 503 tests, 0 errors, 0 failures, 0 skipped)
-            Note : Check log/latest_test for more information        
+            Note : Check pcl_msgs/log/latest_test folder for more information        

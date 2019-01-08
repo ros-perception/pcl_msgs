@@ -1,6 +1,8 @@
 pcl_msgs
 ========
-ROS package containing PCL-related messages 
+
+ROS package containing PCL-related messages. Below imformation is to build and test pcl_msgs package.
+https://github.com/sandiprakhasiya/pcl_msgs/tree/ros2 
 
   ROS2 Migration Chnages
 

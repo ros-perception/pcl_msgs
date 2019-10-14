@@ -2,8 +2,8 @@
 Changelog for package pcl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2019-10-14)
+------------------
 * Trim README
 * ros2 port of pcl_msgs (`#11 <https://github.com/ros-perception/pcl_msgs/issues/11>`_)
   * Migrated From ROS1 to ROS2

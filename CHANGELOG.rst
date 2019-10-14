@@ -2,6 +2,25 @@
 Changelog for package pcl_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Trim README
+* ros2 port of pcl_msgs (`#11 <https://github.com/ros-perception/pcl_msgs/issues/11>`_)
+  * Migrated From ROS1 to ROS2
+  * Update CHANGELOG.rst
+  * Migrated pcl_msgs from ROS1 to ROS2
+  * Updated Readme.md
+  Added Migration changes information and How to build and test information.
+  * Update README.md
+  * Update README.md
+  * Update README.md
+* Migrated From ROS1 to ROS2 (`#10 <https://github.com/ros-perception/pcl_msgs/issues/10>`_)
+  * Migrated From ROS1 to ROS2
+  * Update CHANGELOG.rst
+  * Migrated pcl_msgs from ROS1 to ROS2
+* Add service file to update filename
+* Contributors: Kentaro Wada, Paul Bovbel, Sandip Rakhasiya
+
 0.2.0 (2014-04-09)
 ------------------
 * clean up package.xml
